@@ -1,7 +1,6 @@
 {
   "name": "typescript-for-javascript-developpers",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,7 @@
   "bugs": {
     "url": "https://github.com/shikashima02/typescript-for-javascript-developpers/issues"
   },
-  "homepage": "https://github.com/shikashima02/typescript-for-javascript-developpers#readme"
+  "homepage": "https://github.com/shikashima02/typescript-for-javascript-developpers#readme",
+  "keywords": [],
+  "description": ""
 }
